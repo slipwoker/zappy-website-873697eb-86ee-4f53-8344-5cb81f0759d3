@@ -1,0 +1,112 @@
+# ולורה - ריהוט יוקרתי לסלונים — Generative Engine Optimization Map
+
+> A business specializing in equipment and furniture for barbershops, catering to barbers and salon owners who need professional-grade tools, chairs, workstations, and accessories to set up or upgrade their barbershop environment.
+
+---
+
+## Pages
+
+### בית
+https://-873697eb.zappy5.app
+גלה קולקציית ריהוט יוקרתי למספרות: כיסאות ספרים, עמדות עבודה ואבזור מקצועי. הפוך את הסלון שלך לחוויית יוקרה בלתי נשכחת. היכנס עכשיו!
+
+### פתרונות
+https://-873697eb.zappy5.app/solutions
+פתרונות ריהוט חכמים למספרות: מתכננים שדרוג או הקמה? גלו חבילות משתלמות של כיסאות ספרים בסיטונאות ועמדות עבודה מותאמות אישית. לחצו לייעוץ חינם!
+
+### גלריה
+https://-873697eb.zappy5.app/gallery
+צפו בגלריית סלונים מעוררת השראה: עיצובים יוקרתיים, כיסאות ספרים איכותיים וחללי עבודה מרהיבים. מצאו את הסגנון שלכם ובאו להתאהב. גללו עכשיו!
+
+### אודות
+https://-873697eb.zappy5.app/about
+הכירו את ולורה: מומחים בריהוט יוקרתי למספרות עם תשוקה לאיכות וחדשנות. אנו מספקים ציוד לספרים שהופך כל חלום למציאות. קראו עוד על החזון שלנו!
+
+### צור קשר
+https://-873697eb.zappy5.app/contact
+מוכנים לשדרג את המספרה? צרו קשר עם ולורה עוד היום לקבלת ייעוץ, הצעת מחיר מותאמת או בירור על כיסאות ספרים זולים ואיכותיים. נשמח לשמוע מכם!
+
+### Products
+https://-873697eb.zappy5.app/products
+המוצרים שלנו - ולורה - ריהוט יוקרתי לסלונים
+
+### Cart
+https://-873697eb.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-873697eb.zappy5.app/checkout
+תשלום
+
+### Login
+https://-873697eb.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-873697eb.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-873697eb.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-873697eb.zappy5.app/product/:slug
+פרטי המוצר - ולורה - ריהוט יוקרתי לסלונים
+
+### Category
+https://-873697eb.zappy5.app/category/:slug
+מוצרים - ולורה - ריהוט יוקרתי לסלונים
+
+### תודה שפניתם אלינו
+https://-873697eb.zappy5.app/thank-you
+ולורה - ריהוט יוקרתי לסלונים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-873697eb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-873697eb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-873697eb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ולורה - ריהוט יוקרתי לסלונים
+A business specializing in equipment and furniture for barbershops, catering to barbers and salon owners who need professional-grade tools, chairs, workstations, and accessories to set up or upgrade their barbershop environment.
+
+## Services/Products
+- ציוד למספרות
+- ריהוט למספרות
+
+## Target Audience
+- בעלי מספרות ומעצבי שיער
+- בעלי ספא וסלונים יוקרתיים
+- מעצבי פנים המתמחים בסלונים
+
+## Industry
+Barbershop Equipment & Furniture
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-873697eb.zappy5.app/sitemap.xml
+- Robots: https://-873697eb.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-873697eb.zappy5.app/llms-full.txt
+- Products (JSON): https://-873697eb.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-873697eb.zappy5.app/product-feed.xml
