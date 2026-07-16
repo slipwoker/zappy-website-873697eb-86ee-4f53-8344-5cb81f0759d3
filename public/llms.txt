@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-873697eb.zappy5.app
+https://example.com
 גלה קולקציית ריהוט יוקרתי למספרות: כיסאות ספרים, עמדות עבודה ואבזור מקצועי. הפוך את הסלון שלך לחוויית יוקרה בלתי נשכחת. היכנס עכשיו!
 
 ### פתרונות
-https://-873697eb.zappy5.app/solutions
+https://example.com/solutions
 פתרונות ריהוט חכמים למספרות: מתכננים שדרוג או הקמה? גלו חבילות משתלמות של כיסאות ספרים בסיטונאות ועמדות עבודה מותאמות אישית. לחצו לייעוץ חינם!
 
 ### גלריה
-https://-873697eb.zappy5.app/gallery
+https://example.com/gallery
 צפו בגלריית סלונים מעוררת השראה: עיצובים יוקרתיים, כיסאות ספרים איכותיים וחללי עבודה מרהיבים. מצאו את הסגנון שלכם ובאו להתאהב. גללו עכשיו!
 
 ### אודות
-https://-873697eb.zappy5.app/about
+https://example.com/about
 הכירו את ולורה: מומחים בריהוט יוקרתי למספרות עם תשוקה לאיכות וחדשנות. אנו מספקים ציוד לספרים שהופך כל חלום למציאות. קראו עוד על החזון שלנו!
 
 ### צור קשר
-https://-873697eb.zappy5.app/contact
+https://example.com/contact
 מוכנים לשדרג את המספרה? צרו קשר עם ולורה עוד היום לקבלת ייעוץ, הצעת מחיר מותאמת או בירור על כיסאות ספרים זולים ואיכותיים. נשמח לשמוע מכם!
 
 ### Products
-https://-873697eb.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ולורה - ריהוט יוקרתי לסלונים
 
 ### Cart
-https://-873697eb.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-873697eb.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-873697eb.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-873697eb.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-873697eb.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-873697eb.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ולורה - ריהוט יוקרתי לסלונים
 
 ### Category
-https://-873697eb.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ולורה - ריהוט יוקרתי לסלונים
 
 ### תודה שפניתם אלינו
-https://-873697eb.zappy5.app/thank-you
+https://example.com/thank-you
 ולורה - ריהוט יוקרתי לסלונים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-873697eb.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-873697eb.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-873697eb.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -105,8 +105,8 @@ Barbershop Equipment & Furniture
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-873697eb.zappy5.app/sitemap.xml
-- Robots: https://-873697eb.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-873697eb.zappy5.app/llms-full.txt
-- Products (JSON): https://-873697eb.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-873697eb.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
